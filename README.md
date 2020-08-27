@@ -1,4 +1,4 @@
-# Ambientes
+# Ambientes lab
 Ambientes Interactivos 2020-1
 Arduino + BrikiABC
 
