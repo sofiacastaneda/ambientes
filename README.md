@@ -8,7 +8,9 @@ TinkerCAD : https://www.tinkercad.com/dashboard
 
 Referencia Arduino : https://www.arduino.cc/reference/en/
 
-Tutoriales Arduino : https://www.arduino.cc/en/Tutorial/HomePage
+Built-In Examples: https://www.arduino.cc/en/Tutorial/BuiltInExamples
+
+Otros tutoriales Arduino : https://www.arduino.cc/en/Tutorial/HomePage
 
 ------
 
